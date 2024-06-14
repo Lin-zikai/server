@@ -31,7 +31,7 @@ rm -rf ~/miniconda3/miniconda.sh
 ```
 
 ### 3.2 R
-推荐先装miniconda再使用r，因为这样你才能装包呀
+推荐先装miniconda再使用r
 
 如果你是在学校的用户，安装完miniconda可以直接在本地浏览器中使用内网IP:8787进入R，使用自己账号密码就可以登录 （内网IP：10.158.160.111）
 
