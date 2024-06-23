@@ -45,3 +45,10 @@ rm -rf ~/miniconda3/miniconda.sh
 
 ### 3.4 python 
 建议你直接在本地装vscode连服务器玩，你都会这个了其他应该也不用我教(￣▽￣)~*
+
+
+### 3.5 文件下载
+服务器已经预装了aria2，可以使用多线程下载
+```
+aria2c -x 16 -s 16 [URL]
+```
